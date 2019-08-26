@@ -1,0 +1,46 @@
+/*
+main color - D97420
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.container {
+    margin: 0 auto;
+    border: 1px solid black;
+    max-width: 90%;
+}
+
+.hero {
+    background: url('../img/hero.jpg') no-repeat center center fixed;
+    height: 50vh;
+}
+
+
+
+
+
+.sec-1 {
+    max-height: 600px;
+}
+
+.sec-1-img {
+    background: url('../img/o-chair.jpg') no-repeat center center fixed;
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+
+.wording {
+    float: right;
+    height: 100%;
+    width: 100%;
+}
